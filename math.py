@@ -3,9 +3,11 @@ def add(x,y):
     return x+y    #By Bug123     
 		
 #Subtract implementation		
-def subtract(x,y):
-    pass
-
+def subtract(x,y):		#Implemented by main
+    if x>y:
+		return x-y
+	else:
+		return y-x
 #Multiply implementation	
 def multiply(x,y):
 	pass
