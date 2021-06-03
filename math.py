@@ -8,6 +8,7 @@ def subtract(x,y):		#Implemented by main
 		return x-y
 	else:
 		return y-x
+
 #Multiply implementation	
 def multiply(x,y):
 	pass
